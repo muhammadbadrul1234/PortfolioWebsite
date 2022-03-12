@@ -2,15 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-<<<<<<< HEAD
     title: 'Muhammad Badrul',
     description:
       'Muhammad Badrul is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-=======
-    title: 'Muhamad Badrul',
-    description:
-      'Muhammad Badrul is a Software Developer.',
->>>>>>> 1adbda0500141b89e515ef3a09fe96def52a4493
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
